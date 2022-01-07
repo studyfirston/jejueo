@@ -1,6 +1,5 @@
 # Final-project-level3-nlp-18
-  final-project-level3-nlp-18 created by GitHub Classroom
-
+  nlp-18 project
 
 ## How to use fairseq translation model
 
